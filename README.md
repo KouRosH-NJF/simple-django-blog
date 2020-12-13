@@ -1,2 +1,2 @@
 # simple-django-blog
-### I'm a developer and teacher.
+### A simple blog made with django and vue.js
