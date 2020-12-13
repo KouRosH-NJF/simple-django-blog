@@ -1,0 +1,19 @@
+@font-face {
+    font-family: origin;
+    src: url(fonts/origin/Origin-Regular.ttf);
+}
+@font-face {
+    font-family: poppins;
+    src: url(fonts/Poppins/Poppins-Regular.ttf);
+}
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: poppins;
+    direction: ltr;
+    transition: 0.3s ease-in;
+}
+body {
+    background: #0D1117;
+}
